@@ -1,0 +1,16 @@
+name: week03_campus_dashboard
+description: Week 03 Flutter widget tree and card dashboard practice.
+publish_to: 'none'
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.0.0 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/images/
