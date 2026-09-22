@@ -12,8 +12,8 @@
 
 | 코드 | 완료 범위 |
 |---|---|
-| [CP1](./lib/checkpoints/checkpoint_1_header.dart) | 헤더 완성 (Step 03) |
-| [CP2](./lib/checkpoints/checkpoint_2_intro.dart) | 헤더와 소개 영역 완성 (Step 06) |
-| [CP3](./lib/checkpoints/checkpoint_3_facility_part1.dart) | 시설 카드 1개 완성 (Step 10) |
+| [CP1](./lib/checkpoints/checkpoint_1_header.dart) | 헤더 완성 |
+| [CP2](./lib/checkpoints/checkpoint_2_intro.dart) | 헤더와 소개 영역 완성 |
+| [CP3](./lib/checkpoints/checkpoint_3_facility_part1.dart) | 시설 카드 1개 완성 |
 
 현재 코드를 백업한 뒤 체크포인트의 **전체 코드**로 `lib/main.dart`를 교체하고 **Hot Restart**. 이후 작업도 `lib/main.dart`에서 계속 진행.
